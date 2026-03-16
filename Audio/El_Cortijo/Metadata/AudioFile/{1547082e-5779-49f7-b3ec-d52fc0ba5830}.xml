@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{344e1dde-ffdd-450d-8742-7bdecd506632}">
+	<object class="AudioFile" id="{1547082e-5779-49f7-b3ec-d52fc0ba5830}">
 		<property name="assetPath">
-			<value>Metal Falling Pipe.mp3</value>
+			<value>SUI/SUI_9_NuevaNota/SUI_9_NuevaNota_03.wav</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>44.0999985</value>
+			<value>48</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>3.239183673469388</value>
+			<value>1.384625</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{e3d4c4fe-ce5b-43df-b146-7b902e613dfd}</destination>
