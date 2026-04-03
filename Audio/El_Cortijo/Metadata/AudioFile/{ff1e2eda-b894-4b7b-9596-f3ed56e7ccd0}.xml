@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{ff1e2eda-b894-4b7b-9596-f3ed56e7ccd0}">
 		<property name="assetPath">
-			<value>SUI/SUI_13_CursorOpcion/SUI_13_CursorOpcion_01.wav</value>
+			<value>UI SFX/Menú Principal/SUI_13_CursorOpcion/SUI_13_CursorOpcion_01.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

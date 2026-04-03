@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="EncodableAsset" id="{b229b3b3-6b02-4f42-bdea-ade506282b4a}">
 		<property name="assetPath">
-			<value>SUI/SUI_8_PasarPagina/</value>
+			<value>UI SFX/Libreta/SUI_8_PasarPagina/</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{e3d4c4fe-ce5b-43df-b146-7b902e613dfd}</destination>

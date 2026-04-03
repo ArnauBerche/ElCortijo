@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{f19d2a5a-35cb-464d-abb9-5fb18fea3e76}">
 		<property name="assetPath">
-			<value>SUI/SUI_2_CerrarLibreta/SUI_2_CerrarLibreta_02.wav</value>
+			<value>UI SFX/Maqueta/SUI_2_CerrarLibreta/SUI_2_CerrarLibreta_02.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

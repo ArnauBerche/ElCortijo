@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="DataFile" id="{4c1ca6f0-01eb-4369-b3d8-a4fba0149bc1}">
 		<property name="assetPath">
-			<value>MUSICA/Main_Menu_Music/Instruccions implementació_Menu_Music.txt</value>
+			<value>MUSICA/SM_1_MainMenu/Instruccions implementació_Menu_Music.txt</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{e3d4c4fe-ce5b-43df-b146-7b902e613dfd}</destination>

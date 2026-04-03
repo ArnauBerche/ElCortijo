@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{11442916-bd35-4d83-97c5-52371da77c50}">
 		<property name="assetPath">
-			<value>MUSICA/Main_Menu_Music/06_Gamestart_Menu_Music.wav</value>
+			<value>MUSICA/SM_1_MainMenu/06_Gamestart_Menu_Music.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

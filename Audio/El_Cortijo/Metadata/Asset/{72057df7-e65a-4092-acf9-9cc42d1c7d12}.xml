@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="EncodableAsset" id="{72057df7-e65a-4092-acf9-9cc42d1c7d12}">
 		<property name="assetPath">
-			<value>SUI/SUI_9_NuevaNota/</value>
+			<value>UI SFX/Libreta/SUI_9_NuevaNota/</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{e3d4c4fe-ce5b-43df-b146-7b902e613dfd}</destination>

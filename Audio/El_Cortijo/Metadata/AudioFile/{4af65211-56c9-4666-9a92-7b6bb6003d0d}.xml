@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{4af65211-56c9-4666-9a92-7b6bb6003d0d}">
 		<property name="assetPath">
-			<value>SUI/SUI_9_NuevaNota/SUI_9_NuevaNota_02.wav</value>
+			<value>UI SFX/Libreta/SUI_9_NuevaNota/SUI_9_NuevaNota_02.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
