@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{13b0693b-fb39-4902-88b3-323a7d1d21cf}">
+		<property name="name">
+			<value>Stress</value>
+		</property>
+		<relationship name="folder">
+			<destination>{f4bfc071-0a1d-4f86-a61e-7a1f06b70452}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{ff0ecb23-a432-44d9-867f-14156c3da668}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{ff0ecb23-a432-44d9-867f-14156c3da668}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
