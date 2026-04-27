@@ -172,8 +172,12 @@
 <p><img alt="Plugins" src="images/callback-handler.png" /></p>
 <p>Alternatively you can specify a callback handler on a per-platform basis in the <a href="settings.html#platform-settings">Platform Settings</a>. If both callback handlers are specified only the platform specific callback handler will be executed.</p>
 <h2 id="deploying-fmod-plugins"><a href="#deploying-fmod-plugins">4.2 Deploying FMOD plugins</a></h2>
-<p>You will need to make sure that both static and dynamic plugins are deployed as well. Unreal deployment doesn't have access to the settings information so you will need to create an extra file that lists the plugins you want to deploy.</p>
-<p>Create a file "plugins.txt" in the platform's binary directory. The text file should contain the plugin names (just the name without file extension).</p>
+<div class="admonition warning">
+<p>The following steps are no longer required after v2.03.13.<br />
+The integration will now use the list of plugins from the FMOD Unreal Settings.</p>
+</div>
+<p>You will need to make sure that both static and dynamic plugins are deployed. Unreal deployment doesn't have access to the settings information so you will need to create an extra file that lists the plugins you want to deploy.</p>
+<p>Create a file "plugins.txt" in the platform's "Binaries" directory. The text file should contain the plugin names (just the name without file extension).</p>
 <p>For example, to deploy fmod_gain.dll on Win64 builds, create a file FMODStudio/Binaries/Win64/plugins.txt with the following contents:</p>
 <div class="highlight language-text"><pre><span></span>fmod_gain
 </pre></div>
@@ -226,7 +230,7 @@ In order to enable the plugin, you’ll need to follow the <a href="plugins.html
 <span class="nt">&lt;/root&gt;</span>
 </pre></div></div>
 
-<p class="manual-footer">Unreal Integration 2.03.12 (2026-01-13). &copy; 2026 Firelight Technologies Pty Ltd.</p>
+<p class="manual-footer">Unreal Integration 2.03.13 (2026-03-31). &copy; 2026 Firelight Technologies Pty Ltd.</p>
 </div>
 </body>
 </html>
