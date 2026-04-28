@@ -1,0 +1,19 @@
+Implementació música main menu:
+
+01_Gameopening_Menu_Music:
+Sonarà quan s’obri el joc i es vegin els credits, fins que es veu el menú principal. (Quan tingueu exactament quant dura aquest inici del joc, podem reajustar tempos perquè quedi sincronitzat el rasgueig de guitarra amb l’aparició del menú).
+
+02_Loop1_Menu_Music:
+Aquest loop ve després del track 01 o del track 03, i està pensat per ser reproduit en loop constant. Seria el so del menú principal en si. Pot ser recomanable fer que es faci un fade out molt curt al canviar de track per evitar clicks.
+
+03_Transicio1_Menu_Music:
+Aquesta transició precedeix sempre el track 02. Està pensada per sonar quan el jugador fa click a la opció “return to main menu” o similars.
+
+04_Transicio2_Menu_Music:
+Aquesta transició precedeix sempre el track 05. Està pensada per sonar quan el jugador fa click a “opciones” o similars. Si hi ha moltes opcions dins el menú, es pot expandir la quantitat de transicions.
+
+05_Loop2_Menu_Music:
+Aquest loop sempre va després del track 04. Està pensat per ser reproduit en loop constant, com a música del l’apartat “opciones” del menú. Pot ser recomanable fer que es faci un fade out molt curt al canviar de track per evitar clicks.
+
+06_Gamestart_Menu_Music:
+Aquest track està ideat per sonar quan el jugador selecciona “nueva partida” o “reanudar”.

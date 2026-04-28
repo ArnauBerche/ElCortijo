@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{b5866c34-25ca-449f-8c1b-5d3d52e90095}">
+		<property name="assetPath">
+			<value>MUSICA/SM_5_Maqueta/GTR AC 1.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>40</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e3d4c4fe-ce5b-43df-b146-7b902e613dfd}</destination>
+		</relationship>
+	</object>
+</objects>

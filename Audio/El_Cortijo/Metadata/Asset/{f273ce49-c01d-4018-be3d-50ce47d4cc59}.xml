@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{f273ce49-c01d-4018-be3d-50ce47d4cc59}">
+		<property name="assetPath">
+			<value>SFX/Personaje/SFX_5_Agacharse/Anorak/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e3d4c4fe-ce5b-43df-b146-7b902e613dfd}</destination>
+		</relationship>
+	</object>
+</objects>

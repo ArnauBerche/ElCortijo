@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{c5babc5a-24d6-4d4a-a72e-a75b67b18ea6}">
+		<property name="assetPath">
+			<value>UI SFX/Libreta/SUI_8_PasarPagina/SUI_8_PasarPagina_06.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.88943749999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e3d4c4fe-ce5b-43df-b146-7b902e613dfd}</destination>
+		</relationship>
+	</object>
+</objects>
