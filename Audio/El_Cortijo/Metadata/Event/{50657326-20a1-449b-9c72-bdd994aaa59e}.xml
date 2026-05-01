@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{50657326-20a1-449b-9c72-bdd994aaa59e}">
-		<property name="color">
-			<value>Red</value>
-		</property>
 		<property name="name">
 			<value>SFX_28_PuertaDesbloqueada</value>
 		</property>
@@ -31,6 +28,12 @@
 		<relationship name="timeline">
 			<destination>{f4766fd6-7e9b-44b5-a4b1-a77b15089823}</destination>
 		</relationship>
+		<relationship name="parameters">
+			<destination>{1b46a043-833d-4425-80f1-16a46a1e8391}</destination>
+		</relationship>
+		<relationship name="banks">
+			<destination>{94594e02-4290-4356-a230-590e3f8ae7eb}</destination>
+		</relationship>
 	</object>
 	<object class="EventMixer" id="{6d37df42-1866-4ef5-9e73-ec7e22d8b4fc}">
 		<relationship name="masterBus">
@@ -38,6 +41,9 @@
 		</relationship>
 	</object>
 	<object class="MasterTrack" id="{00f31e4a-af28-443d-b113-2c7cdec3e007}">
+		<relationship name="modules">
+			<destination>{e5b3f57f-706d-429f-b3b9-69784c0f878b}</destination>
+		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{ea34833a-6bc9-4623-8ea5-07a38e9e891f}</destination>
 		</relationship>
@@ -60,6 +66,11 @@
 			<value>false</value>
 		</property>
 	</object>
+	<object class="ActionSheet" id="{1b46a043-833d-4425-80f1-16a46a1e8391}">
+		<relationship name="modules">
+			<destination>{e5b3f57f-706d-429f-b3b9-69784c0f878b}</destination>
+		</relationship>
+	</object>
 	<object class="EventMixerMaster" id="{ea34833a-6bc9-4623-8ea5-07a38e9e891f}">
 		<relationship name="effectChain">
 			<destination>{f3274b56-32dd-41a1-a0d7-2a7359857394}</destination>
@@ -69,6 +80,11 @@
 		</relationship>
 		<relationship name="mixer">
 			<destination>{6d37df42-1866-4ef5-9e73-ec7e22d8b4fc}</destination>
+		</relationship>
+	</object>
+	<object class="MultiSound" id="{e5b3f57f-706d-429f-b3b9-69784c0f878b}">
+		<relationship name="sounds">
+			<destination>{f97b8607-2ac2-4ba4-b943-77822b9dd0f0}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{d2436496-aa3e-486b-8d47-4601320aa6e5}">
@@ -83,6 +99,22 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{41d5bb04-259d-4441-809c-b87905fd7daf}" />
+	<object class="SingleSound" id="{f97b8607-2ac2-4ba4-b943-77822b9dd0f0}">
+		<relationship name="modulators">
+			<destination>{8288deea-9b52-43c3-a673-cd92a32ef272}</destination>
+		</relationship>
+		<relationship name="audioFile">
+			<destination>{6f9f6b3b-4ca3-40ad-bcf0-f7a52275ec7e}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusFader" id="{27439d02-459d-4c6d-9715-ea63fd8cb8dc}" />
 	<object class="MixerBusFader" id="{4bea716c-d06c-4708-9400-8a8629f95471}" />
+	<object class="RandomizerModulator" id="{8288deea-9b52-43c3-a673-cd92a32ef272}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>pitch</value>
+		</property>
+		<property name="amount">
+			<value>6.25</value>
+		</property>
+	</object>
 </objects>

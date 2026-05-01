@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="EncodableAsset" id="{4ccd55a5-2c2d-4d50-85c6-7659663c5fac}">
-		<property name="color">
-			<value>Red</value>
-		</property>
 		<property name="assetPath">
 			<value>SFX/Objetos/SFX_28_PuertaDesbloqueada/</value>
 		</property>
