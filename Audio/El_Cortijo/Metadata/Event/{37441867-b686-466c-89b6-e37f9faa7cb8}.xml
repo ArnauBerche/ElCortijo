@@ -89,6 +89,9 @@
 		<property name="volume">
 			<value>2</value>
 		</property>
+		<property name="pitch">
+			<value>-0.699999988</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{66c4a432-f9ff-4b71-a532-adc6c0b9ac26}</destination>
 		</relationship>
