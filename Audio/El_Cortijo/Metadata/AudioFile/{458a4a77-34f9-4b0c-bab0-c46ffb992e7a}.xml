@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{458a4a77-34f9-4b0c-bab0-c46ffb992e7a}">
 		<property name="assetPath">
-			<value>ArrastrarMetal 2.wav</value>
+			<value>SFX/Objetos/SFX_21_Arrastrar/ArrastrarMetal 2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
