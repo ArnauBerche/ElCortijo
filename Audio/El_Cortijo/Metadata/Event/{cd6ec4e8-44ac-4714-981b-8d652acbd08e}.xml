@@ -5,7 +5,7 @@
 			<value>SA_3_Sonido_Moscas</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{50c2058b-7ef1-4559-85c7-2924ea36e00b}</destination>
@@ -136,6 +136,7 @@
 	<object class="MixerBusEffectChain" id="{715f0845-6f6a-48b5-8021-29fc6aec586d}">
 		<relationship name="effects">
 			<destination>{725bffb2-d8f8-41fe-8f80-c2e977e9d6b3}</destination>
+			<destination>{a5bfb1e3-770a-4aed-829c-c57ffc092f7f}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{26fc7a77-9552-48f5-844d-d926294800b9}" />
@@ -153,6 +154,7 @@
 	</object>
 	<object class="MixerBusPanner" id="{5cac95d9-995f-43d3-9cb6-f1387309ab09}" />
 	<object class="MixerBusFader" id="{725bffb2-d8f8-41fe-8f80-c2e977e9d6b3}" />
+	<object class="SpatialiserEffect" id="{a5bfb1e3-770a-4aed-829c-c57ffc092f7f}" />
 	<object class="SFXReverbEffect" id="{3f644e13-b7fb-4f78-9dcb-d2bfffe16153}">
 		<property name="decayTime">
 			<value>400</value>
