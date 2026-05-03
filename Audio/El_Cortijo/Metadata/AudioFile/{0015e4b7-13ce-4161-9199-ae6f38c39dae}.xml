@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{0015e4b7-13ce-4161-9199-ae6f38c39dae}">
 		<property name="assetPath">
-			<value>MUSICA/SM_5_Maqueta/GTR PUNT 1.wav</value>
+			<value>MUSICA/SM_2_Maqueta/GTR PUNT 1.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
