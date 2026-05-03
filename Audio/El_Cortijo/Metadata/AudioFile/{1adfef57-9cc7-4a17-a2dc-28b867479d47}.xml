@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{1adfef57-9cc7-4a17-a2dc-28b867479d47}">
 		<property name="assetPath">
-			<value>MUSICA/SM_5_Maqueta/PERCS_1.wav</value>
+			<value>MUSICA/SM_2_Maqueta/PERCS_1.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

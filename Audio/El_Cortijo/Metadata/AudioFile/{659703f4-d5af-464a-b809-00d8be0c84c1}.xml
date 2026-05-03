@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{659703f4-d5af-464a-b809-00d8be0c84c1}">
 		<property name="assetPath">
-			<value>MUSICA/SM_5_Maqueta/PLUCK 1_2.wav</value>
+			<value>MUSICA/SM_2_Maqueta/PLUCK 1_2.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

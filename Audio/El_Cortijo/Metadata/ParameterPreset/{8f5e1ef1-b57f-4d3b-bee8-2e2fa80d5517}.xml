@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{8f5e1ef1-b57f-4d3b-bee8-2e2fa80d5517}">
+		<property name="name">
+			<value>SM_3_Capas</value>
+		</property>
+		<relationship name="folder">
+			<destination>{f4bfc071-0a1d-4f86-a61e-7a1f06b70452}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{57ec32fa-90b6-423f-bb89-a83f6ddea6c8}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{57ec32fa-90b6-423f-bb89-a83f6ddea6c8}">
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

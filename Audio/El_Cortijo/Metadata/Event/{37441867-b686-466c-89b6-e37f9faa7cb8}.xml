@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{37441867-b686-466c-89b6-e37f9faa7cb8}">
 		<property name="name">
-			<value>SFX_12_Zoom_Out</value>
+			<value>SFX_13_Zoom_Out</value>
 		</property>
 		<property name="outputFormat">
 			<value>0</value>
@@ -88,6 +88,9 @@
 		</property>
 		<property name="volume">
 			<value>2</value>
+		</property>
+		<property name="pitch">
+			<value>-0.699999988</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{66c4a432-f9ff-4b71-a532-adc6c0b9ac26}</destination>
