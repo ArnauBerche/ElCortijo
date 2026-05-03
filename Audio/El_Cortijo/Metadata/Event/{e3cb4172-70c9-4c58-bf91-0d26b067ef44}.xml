@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{e3cb4172-70c9-4c58-bf91-0d26b067ef44}">
 		<property name="name">
-			<value>SFX_20_Parpadeo</value>
+			<value>SFX_20_ParpadeoLuz</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

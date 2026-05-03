@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{b38b8578-1917-4ca3-8e07-94317da4d17f}">
 		<property name="name">
-			<value>SFX_18_Encender</value>
+			<value>SFX_18_EncenderLinterna</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

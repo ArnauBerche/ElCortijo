@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{fede2888-3732-4bfb-8324-3a205b8986b1}">
 		<property name="name">
-			<value>SFX_19_Apagar</value>
+			<value>SFX_19_ApagarLinterna</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

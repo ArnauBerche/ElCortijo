@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{6e8c7796-7b8a-4136-9a16-535b1fc048cd}">
 		<property name="name">
-			<value>SFX_Caminar</value>
+			<value>SFX_3_Caminar</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

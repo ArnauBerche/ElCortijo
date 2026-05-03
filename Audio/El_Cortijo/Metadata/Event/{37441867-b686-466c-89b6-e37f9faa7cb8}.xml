@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{37441867-b686-466c-89b6-e37f9faa7cb8}">
 		<property name="name">
-			<value>SFX_12_Zoom_Out</value>
+			<value>SFX_13_Zoom_Out</value>
 		</property>
 		<property name="outputFormat">
 			<value>0</value>

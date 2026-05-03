@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{b087e442-92e1-43d2-8c6c-85cb67e5241a}">
 		<property name="name">
-			<value>SFX_25_Puerta_Cerrar</value>
+			<value>SFX_25_PuertaCerrar</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
